@@ -7,18 +7,18 @@ This project implements 12 search algorithms in Python, showcasing their functio
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithms](#algorithms)
-  - [A Star](CIA-1/A-Star.py)
-  - [AO Star](CIA-1/AO Star.py)
-  - [BB Cost Est](CIA-1/BB Cost Est.py)
-  - [Beam Search](CIA-1/ BFS.py)
-  - [Best First Search](CIA-1/A Star.py)
-  - [BFS](CIA-1/A Star.py)
-  - [BMS](CIA-1/A Star.py)
-  - [Branch and Bound](CIA-1/A Star.py)
-  - [Dead Horse](CIA-1/A Star.py)
-  - [DFS](CIA-1/A Star.py)
-  - [Hill Climbing](CIA-1/A Star.py)
-  - [Oracle](CIA-1/A Star.py)
+  - [A Star]
+  - [AO Star]
+  - [BB Cost Est]
+  - [Beam Search]
+  - [Best First Search]
+  - [BFS]
+  - [BMS]
+  - [Branch and Bound]
+  - [Dead Horse]
+  - [DFS]
+  - [Hill Climbing]
+  - [Oracle]
     
 ## Algorithms Overview
 This project includes various search algorithms, each with unique strategies for exploring a graph to find the optimal path from a start node to a goal node.
