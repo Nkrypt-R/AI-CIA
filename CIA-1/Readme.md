@@ -7,18 +7,18 @@ This project implements 12 search algorithms in Python, showcasing their functio
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithms](#algorithms)
-  - [A Star]
-  - [AO Star]
-  - [BB Cost Est]
-  - [Beam Search]
-  - [Best First Search]
-  - [BFS]
-  - [BMS]
-  - [Branch and Bound]
-  - [Dead Horse]
-  - [DFS]
-  - [Hill Climbing]
-  - [Oracle]
+  - A Star
+  - AO Star
+  - BB Cost Est
+  - Beam Search
+  - Best First Search
+  - BFS
+  - BMS
+  - Branch and Bound
+  - Dead Horse
+  - DFS
+  - Hill Climbing
+  - Oracle
     
 ## Algorithms Overview
 This project includes various search algorithms, each with unique strategies for exploring a graph to find the optimal path from a start node to a goal node.
