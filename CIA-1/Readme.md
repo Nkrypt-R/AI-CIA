@@ -19,8 +19,7 @@ This project implements 12 search algorithms in Python, showcasing their functio
   - [DFS](#dfs)
   - [Hill Climbing](#hill-climbing)
   - [Oracle](#oracle)
-- [Contributing](#contributing)
-- [License](#license)
+    
 ## Algorithms Overview
 This project includes various search algorithms, each with unique strategies for exploring a graph to find the optimal path from a start node to a goal node.
 
@@ -93,5 +92,3 @@ Description: An algorithm that explores paths based on their estimated cost to t
 
 Output:![alt text](<OUTPUT/Best First Search.png>)
 
-
-This `README.md` structure provides clear instructions on the purpose of the project, installation, usage, and a detailed description of each algorithm. Feel free to add more details to the "Output" sections as you finalize the implementation of the algorithms.
