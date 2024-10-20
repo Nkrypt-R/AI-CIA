@@ -7,7 +7,7 @@ This project implements 12 search algorithms in Python, showcasing their functio
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithms](#algorithms)
-  - [A Star](CIA-1/A Star.py)
+  - [A Star](CIA-1/A-Star.py)
   - [AO Star](CIA-1/AO Star.py)
   - [BB Cost Est](CIA-1/BB Cost Est.py)
   - [Beam Search](CIA-1/ BFS.py)
